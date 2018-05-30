@@ -9,4 +9,4 @@ change SITE to your desired SITE
 
 -----------------------------------------------------------------------------
 TODO:
--Still need to implement a function that return the location of the proxies.
+-Creates another .txt file with the working proxies.
