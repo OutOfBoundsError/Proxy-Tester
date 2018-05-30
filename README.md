@@ -9,4 +9,7 @@ change SITE to your desired SITE
 
 -----------------------------------------------------------------------------
 TODO:
--Creates another .txt file with the working proxies.
+
+Creates another .txt file with the working proxies.
+
+Print out location of proxy.
